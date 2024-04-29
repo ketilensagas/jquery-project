@@ -842,13 +842,9 @@ img {
 }
 
 @media(max-width: 425px) {
-	.col-md-7 {
-		padding: 2px;
-	}
-
 	.featured-item {
-		padding: 5px;
-		margin: 3px;
+		padding: 1.5px;
+		margin: 2px;
 	}
 
 }

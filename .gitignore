@@ -1,0 +1,6 @@
+*node_modules
+*fonts
+*dist
+*bootstrap
+*package-lock.json
+*.vscode
